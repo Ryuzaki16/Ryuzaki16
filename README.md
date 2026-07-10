@@ -66,13 +66,17 @@ I enjoy transforming ideas into reliable software solutions through thoughtful d
 # 📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ryuzaki16&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img src="https://streak-stats.demolab.com?user=Ryuzaki16&theme=tokyonight&hide_border=true" />
-
+  <img height="180em" src="https://github-readme-stats.shion.dev/api?username=Ryuzaki16&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Ryuzaki16&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ryuzaki16&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ryuzaki16/Ryuzaki16/output/github-contribution-grid-snake-dark.svg" />
+</p>
 ---
 
 # 📫 Connect With Me
