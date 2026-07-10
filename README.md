@@ -67,9 +67,9 @@ I enjoy transforming ideas into reliable software solutions through thoughtful d
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ryuzaki16&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Ryuzaki16&show_icons=true&theme=tokyonight&hide_border=true&cache_bust=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ryuzaki16&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ryuzaki16&theme=tokyonight&hide_border=true&cache_bust=true" />
 
 </p>
 
