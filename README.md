@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Dexter Hermosura
 
-### Full-Stack Developer specializing in Web, Mobile & AI-powered applications
+### Full-Stack Developer | Web • Mobile • AI Applications
 
 <p>
   <a href="https://github.com/Ryuzaki16">
@@ -19,19 +19,17 @@
 
 ## 🚀 About Me
 
-I'm a **Computer Science graduate and Full-Stack Developer** from Cavite, Philippines, passionate about creating scalable web, mobile, and AI-powered applications.
+I'm a **Full-Stack Developer from Cavite, Philippines** focused on building modern web, mobile, and AI-powered applications.
 
-I specialize in building modern applications with clean architecture, intuitive interfaces, secure APIs, and efficient database systems.
-
-Currently focused on:
+I specialize in:
 
 - 🤖 AI-powered systems and intelligent automation
 - 🌐 Full-stack web development
 - 📱 Cross-platform mobile applications
 - 🏗️ Backend architecture and scalable APIs
-- ☁️ Cloud-based solutions and modern development workflows
+- ☁️ Cloud-based solutions and modern workflows
 
-I enjoy transforming ideas into reliable software solutions through thoughtful design, clean code, and continuous learning.
+I enjoy transforming ideas into reliable software through clean architecture, intuitive interfaces, and maintainable code.
 
 ---
 
@@ -46,7 +44,8 @@ I enjoy transforming ideas into reliable software solutions through thoughtful d
 ### Mobile Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=reactnative,expo" />
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
 </p>
 
 ### Backend & Database
@@ -66,17 +65,29 @@ I enjoy transforming ideas into reliable software solutions through thoughtful d
 # 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.shion.dev/api?username=Ryuzaki16&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Ryuzaki16&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img height="180em" src="https://github-readme-stats.shion.dev/api?username=Ryuzaki16&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Ryuzaki16&layout=compact&theme=tokyonight&hide_border=true" />
+
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ryuzaki16&theme=tokyonight&hide_border=true" />
+
+<img src="https://streak-stats.demolab.com?user=Ryuzaki16&theme=tokyonight&hide_border=true" />
+
 </p>
 
+---
+
+# 🐍 Contributions
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ryuzaki16/Ryuzaki16/output/github-contribution-grid-snake-dark.svg" />
+
+<img src="https://raw.githubusercontent.com/Ryuzaki16/Ryuzaki16/output/github-contribution-grid-snake-dark.svg" />
+
 </p>
+
 ---
 
 # 📫 Connect With Me
@@ -95,25 +106,15 @@ I enjoy transforming ideas into reliable software solutions through thoughtful d
 <img src="https://img.shields.io/badge/LinkedIn-Dexter%20Hermosura-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
 
-<a href="https://www.facebook.com/dexterhermosura06/">
-<img src="https://img.shields.io/badge/Facebook-Dexter%20Hermosura-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
-
-<a href="https://www.instagram.com/thraigh_0302">
-<img src="https://img.shields.io/badge/Instagram-thraigh__0302-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
 </p>
 
 ---
 
 <div align="center">
 
-### Let's build something great 🚀
+### 🚀 Let's build something great
 
 📍 Cavite, Philippines  
-💻 Full-Stack Development • AI Systems • Mobile Applications  
-
-📧 dexterhermosura16@gmail.com
+💻 Full-Stack Development • AI Systems • Mobile Applications
 
 </div>
